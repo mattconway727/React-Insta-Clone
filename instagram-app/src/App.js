@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import dummyData from "./dummy-data";
 import PostsContainer from "./components/PostsContainer/PostsContainer";
-import SearchBar from "./components/SearchBar/SearchBar";
+import SearchBar from "./components/SearchBar/SearchBarContainer";
 
 class App extends React.Component {
   constructor() {
