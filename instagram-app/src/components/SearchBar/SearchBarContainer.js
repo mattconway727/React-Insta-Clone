@@ -8,7 +8,7 @@ const SearchBar = () => {
       <div className="image-wrapper">
         <img
           alt="instagram logo"
-          src="../../../../assets/ig_search_bar.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png"
           className="logo-image"
         />
       </div>
